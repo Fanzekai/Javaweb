@@ -1,0 +1,49 @@
+
+J
+java:S3740V"/Provide the parametrized type for this generic.(å”Íœüÿÿÿÿ
+J
+java:S3740V"/Provide the parametrized type for this generic.(å”Íœüÿÿÿÿ
+b
+java:S1192Ÿ"KDefine a constant instead of duplicating this literal "<a href=\"" 8 times.(ÎúÄÈ
+‡
+java:S1192"kDefine a constant instead of duplicating this literal "<a href=\"javascript:;\" class=\"active\">" 4 times.(Šë¿“ÿÿÿÿÿ
+l	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íŞÃÄúÿÿÿÿ
+f	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ííh
+l	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÑ ııÿÿÿÿ
+o
+java:S1104"TMake firstRow a static final constant or non-public and provide accessors if needed.(¬ê×úÿÿÿÿ
+o
+java:S1104"TMake listRows a static final constant or non-public and provide accessors if needed.(·À¹Îüÿÿÿÿ
+A
+java:S2160"+Override the "equals" method in this class.(ìôÿ©
+z
+java:S1149k"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ
+v
+java:S1149‰"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬¤óô
+{
+java:S1149•"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¼€æÛşÿÿÿÿ
+{
+java:S1149Ã"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(…ßØúşÿÿÿÿ
+v
+java:S1149Ì"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¬¨ÍÎ
+{
+java:S1149Ø"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Î¨“æûÿÿÿÿ
+{
+java:S1149ä"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(û¡Íşÿÿÿÿ
+v
+java:S1149í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÀéúŸ
+v
+java:S1149‡"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‚­Àó
+9
+java:S2153J"Remove the boxing to "Double".(ì¶±úÿÿÿÿ
+;
+java:S2129J" Remove this "Double" constructor(ì¶±úÿÿÿÿ
+Q	java:S125X"<This block of commented-out lines of code should be removed.(˜×Í§
+W	java:S125€"<This block of commented-out lines of code should be removed.(—ù°ıÿÿÿÿ
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¼€æÛşÿÿÿÿ
+T
+java:S1117”"8Rename "page" which hides the field declared at line 20.(“üû‚øÿÿÿÿ
+O
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(ı½\
+R	java:S125«"<This block of commented-out lines of code should be removed.(­÷œ

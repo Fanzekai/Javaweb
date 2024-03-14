@@ -1,0 +1,68 @@
+
+J
+java:S3740o"/Provide the parametrized type for this generic.(£é¥üÿÿÿÿ
+J
+java:S3740s"/Provide the parametrized type for this generic.(¼¥˜‚øÿÿÿÿ
+K
+java:S3740¤"/Provide the parametrized type for this generic.(£é¥üÿÿÿÿ
+K
+java:S3740¨"/Provide the parametrized type for this generic.(¼¥˜‚øÿÿÿÿ
+K
+java:S3740Ë"/Provide the parametrized type for this generic.(Ú°¿ùÿÿÿÿ
+f
+java:S1192^"KDefine a constant instead of duplicating this literal "pagerandom" 4 times.(ÃÃçºıÿÿÿÿ
+\
+java:S1192V"FDefine a constant instead of duplicating this literal "login" 4 times.(ÀµË¹
+\
+java:S1192("FDefine a constant instead of duplicating this literal "error" 9 times.(¸ÃÁö
+h
+java:S1192h"MDefine a constant instead of duplicating this literal "' and mima='" 3 times.(ˆÊÇÏüÿÿÿÿ
+`
+java:S1192d"JDefine a constant instead of duplicating this literal "index.jsp" 3 times.(Î˜ŒÕ
+d
+java:S1192X"IDefine a constant instead of duplicating this literal "username" 6 times.(Ö¡Œ‰ûÿÿÿÿ
+>
+java:S1185"(Remove this method to simply inherit it.(‚“¶î
+P
+java:S1161":Add the "@Override" annotation above this method signature(‚“¶î
+U
+java:S1161":Add the "@Override" annotation above this method signature(´È®‚ıÿÿÿÿ
+{
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(ã÷éíùÿÿÿÿ
+Z
+java:S21473"DCombine this catch with the one at line 49, which has the same body.(ï­£Ä
+@	java:S106("+Replace this use of System.out by a logger.(¸ÃÁö
+I
+java:S11729".Remove this unused method parameter "request".(÷¢ş•ùÿÿÿÿ
+M
+java:S1135>"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+h
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(§œ×ä
+Q
+java:S1854S";Remove this useless assignment to local variable "tomonth".(…éîè
+T
+java:S1854Q"9Remove this useless assignment to local variable "today".(æóéûÿÿÿÿ
+\
+java:S1854Ä"@Remove this useless assignment to local variable "copyuserpass".(ÒÄŒ˜ûÿÿÿÿ
+P
+java:S1161D":Add the "@Override" annotation above this method signature(§œ×ä
+k
+java:S1989H"PHandle the following exception that could be thrown by "getWriter": IOException.(ïô†úÿÿÿÿ
+a
+java:S3252O"FUse static access with "com.jntoo.db.utils.InfoUtil" for "getDateStr".(³Š¶Æûÿÿÿÿ
+E
+java:S1481Q"*Remove this unused "today" local variable.(æóéûÿÿÿÿ
+B
+java:S1481S",Remove this unused "tomonth" local variable.(…éîè
+M
+java:S1481Ä"1Remove this unused "copyuserpass" local variable.(ÒÄŒ˜ûÿÿÿÿ
+Q	java:S125Å"<This block of commented-out lines of code should be removed.(œ§¹
+W	java:S125È"<This block of commented-out lines of code should be removed.(ò«Ÿºùÿÿÿÿ
+R	java:S125Ğ"<This block of commented-out lines of code should be removed.(÷íß”
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(î×Œüÿÿÿÿ
+W	java:S125Ú"<This block of commented-out lines of code should be removed.(ìÆÉÕúÿÿÿÿ
+R	java:S125ã"<This block of commented-out lines of code should be removed.( „ÔÉ
+V
+java:S1161ı":Add the "@Override" annotation above this method signature(¡’…ùüÿÿÿÿ
+İ
+java:S6541D"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 122 to 64, Complexity from 27 to 14, Nesting Level from 4 to 2, Number of Variables from 36 to 6.(§œ×ä

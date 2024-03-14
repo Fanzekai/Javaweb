@@ -1,0 +1,205 @@
+
+L
+java:S3740N"/Provide the parametrized type for this generic.(Á¾æ÷8¦›ÖÅß1
+Q
+java:S3740O"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ8¦›ÖÅß1
+Q
+java:S3740O"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ8¦›ÖÅß1
+L
+java:S3740V"/Provide the parametrized type for this generic.(ÿÎ™Ä8¦›ÖÅß1
+L
+java:S3740V"/Provide the parametrized type for this generic.(ÿÎ™Ä8¦›ÖÅß1
+Q
+java:S3740o"/Provide the parametrized type for this generic.(À«Î¾ùÿÿÿÿ8¦›ÖÅß1
+L
+java:S3740p"/Provide the parametrized type for this generic.(ÿÎ™Ä8¦›ÖÅß1
+L
+java:S3740p"/Provide the parametrized type for this generic.(ÿÎ™Ä8¦›ÖÅß1
+M
+java:S3740"/Provide the parametrized type for this generic.(É’§Ó8¦›ÖÅß1
+R
+java:S3740"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ8¦›ÖÅß1
+R
+java:S3740"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ8¦›ÖÅß1
+M
+java:S3740¥"/Provide the parametrized type for this generic.(ÿÎ™Ä8¦›ÖÅß1
+M
+java:S3740¥"/Provide the parametrized type for this generic.(ÿÎ™Ä8¦›ÖÅß1
+L
+java:S3740¾"/Provide the parametrized type for this generic.(­Õé98¦›ÖÅß1
+R
+java:S3740À"/Provide the parametrized type for this generic.(àåÜüÿÿÿÿ8¦›ÖÅß1
+M
+java:S3740×"/Provide the parametrized type for this generic.(ãğœù8¦›ÖÅß1
+M
+java:S3740Û"/Provide the parametrized type for this generic.(‡ÂßÃ8¦›ÖÅß1
+M
+java:S3740£"/Provide the parametrized type for this generic.(ùâ°ß8¦›ÖÅß1
+R
+java:S3740¥"/Provide the parametrized type for this generic.(¥ú‚Ûÿÿÿÿÿ8¦›ÖÅß1
+M
+java:S3740ø"/Provide the parametrized type for this generic.(ÛÈ“«8¦›ÖÅß1
+R
+java:S3740ú"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ8§›ÖÅß1
+R
+java:S3740ú"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ8§›ÖÅß1
+M
+java:S3740"/Provide the parametrized type for this generic.(ÿÎ™Ä8§›ÖÅß1
+M
+java:S3740"/Provide the parametrized type for this generic.(ÿÎ™Ä8§›ÖÅß1
+R
+java:S3740£"/Provide the parametrized type for this generic.(ùÍîÎşÿÿÿÿ8§›ÖÅß1
+R
+java:S3740¤"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ8§›ÖÅß1
+R
+java:S3740¤"/Provide the parametrized type for this generic.(©¾ì×şÿÿÿÿ8§›ÖÅß1
+L
+java:S3740¥"/Provide the parametrized type for this generic.(–™‚e8§›ÖÅß1
+L
+java:S3740¥"/Provide the parametrized type for this generic.(–™‚e8§›ÖÅß1
+i
+java:S1192"FDefine a constant instead of duplicating this literal "code:" 7 times.(ÛØòµøÿÿÿÿ8§›ÖÅß1
+u
+java:S1192"RDefine a constant instead of duplicating this literal "SQL execute Error" 7 times.(ıÓ†áıÿÿÿÿ8¨›ÖÅß1
+l
+java:S1192‘"IDefine a constant instead of duplicating this literal "Message:" 7 times.(Êâíİıÿÿÿÿ8¨›ÖÅß1
+h
+java:S1192S"KDefine a constant instead of duplicating this literal " where id=" 3 times.(İ‘­ª8¨›ÖÅß1
+l
+java:S1192S"ODefine a constant instead of duplicating this literal "select * from " 3 times.(İ‘­ª8¨›ÖÅß1
+R
+java:S1066ì"/Merge this if statement with the enclosing one.(˜ä­çùÿÿÿÿ8¨›ÖÅß1
+Š
+java:S1319N"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Á¾æ÷8¨›ÖÅß1
+
+java:S1319o"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(À«Î¾ùÿÿÿÿ8¨›ÖÅß1
+‹
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(É’§Ó8¨›ÖÅß1
+Š
+java:S1319¾"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(­Õé98¨›ÖÅß1
+
+java:S1319×"cThe type of "extmap" should be an interface such as "Map" rather than the implementation "HashMap".(ãğœù8¨›ÖÅß1
+
+java:S1319£"cThe type of "extmap" should be an interface such as "Map" rather than the implementation "HashMap".(ùâ°ß8¨›ÖÅß1
+†
+java:S1319Ï"cThe type of "sql" should be an interface such as "List" rather than the implementation "ArrayList".(æ¹…ıÿÿÿÿ8¨›ÖÅß1
+:
+java:S1643"Use a StringBuilder instead.(ÏñÃÚ8©›ÖÅß1
+m
+java:S1104"PMake conn a static final constant or non-public and provide accessors if needed.(˜Òÿº8©›ÖÅß1
+G
+java:S1444"*Make this "public static conn" field final(˜Òÿº8©›ÖÅß1
+e
+java:S2095ü"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8Å¤ÖÅß1
+e
+java:S2095¶"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8Å¤ÖÅß1
+d
+java:S2095Q"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8Å¤ÖÅß1
+e
+java:S2095‡"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8Å¤ÖÅß1
+e
+java:S2095 "GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8Å¤ÖÅß1
+e
+java:S2095Ó"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8Å¤ÖÅß1
+r
+java:S2095Â"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×•µ¢ÿÿÿÿÿ8Å¤ÖÅß1
+e
+java:S2095í"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8Å¤ÖÅß1
+d
+java:S2095t"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8Å¤ÖÅß1
+r
+java:S2095Ø"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×•µ¢ÿÿÿÿÿ8Å¤ÖÅß1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Â˜˜Ü8Æ¤ÖÅß1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ış‡ö8Æ¤ÖÅß1
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŸÁÉÖ8Æ¤ÖÅß1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(É´Øíûÿÿÿÿ8Æ¤ÖÅß1
+Ÿ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éí–µ8Æ¤ÖÅß1
+Ÿ
+java:S1186è"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶ ™’8Æ¤ÖÅß1
+C
+java:S3010 "!Remove this assignment of "conn".(™‰½úÿÿÿÿ8Î¤ÖÅß1
+W
+java:S2209 "5Change this instance-reference to a static reference.(™‰½úÿÿÿÿ8Ï¤ÖÅß1
+S
+java:S6437+"6Revoke and change this password, as it is compromised.(Ôı£Ö8Ñ¤ÖÅß1
+O
+java:S49257"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8Ò¤ÖÅß1
+O
+java:S4925:"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8Ò¤ÖÅß1
+o
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Á¾æ÷8Ó¤ÖÅß1
+X	java:S125R"<This block of commented-out lines of code should be removed.( ŒÙ‹8×¤ÖÅß1
+T
+java:S1135d"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Ü¤ÖÅß1
+t
+java:S3776o"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(À«Î¾ùÿÿÿÿ8İ¤ÖÅß1
+]	java:S125r"<This block of commented-out lines of code should be removed.(ç¨ÙÍÿÿÿÿÿ8Ş¤ÖÅß1
+G	java:S106u"+Replace this use of System.out by a logger.(Â–‘ö8Ş¤ÖÅß1
+F	java:S106w"+Replace this use of System.out by a logger.(•¬ò8Ş¤ÖÅß1
+L	java:S106y"+Replace this use of System.out by a logger.(“ç‰ÿıÿÿÿÿ8Ş¤ÖÅß1
+]	java:S125{"<This block of commented-out lines of code should be removed.(¨õ¢ôüÿÿÿÿ8Ş¤ÖÅß1
+F	java:S106}"+Replace this use of System.out by a logger.(Îıƒ%8ß¤ÖÅß1
+^	java:S125…"<This block of commented-out lines of code should be removed.(²ê¯Ÿûÿÿÿÿ8ß¤ÖÅß1
+Y	java:S125Œ"<This block of commented-out lines of code should be removed.(†€éˆ8à¤ÖÅß1
+U
+java:S1135‹"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8à¤ÖÅß1
+M	java:S106"+Replace this use of System.err by a logger.(ıÓ†áıÿÿÿÿ8à¤ÖÅß1
+M	java:S106"+Replace this use of System.err by a logger.(ÛØòµøÿÿÿÿ8à¤ÖÅß1
+M	java:S106‘"+Replace this use of System.err by a logger.(Êâíİıÿÿÿÿ8à¤ÖÅß1
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(É’§Ó8à¤ÖÅß1
+^	java:S125¡"<This block of commented-out lines of code should be removed.(Ì¿×‘ıÿÿÿÿ8á¤ÖÅß1
+U
+java:S1135³"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8â¤ÖÅß1
+d
+java:S3252Ø"FUse static access with "com.jntoo.db.utils.InfoUtil" for "getDateStr".(µÔ ¬8ä¤ÖÅß1
+I
+java:S1481æ"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8ü¤ÖÅß1
+M	java:S106î"+Replace this use of System.out by a logger.(‹ş¿˜ûÿÿÿÿ8ı¤ÖÅß1
+Y	java:S125õ"<This block of commented-out lines of code should be removed.(†€éˆ8ı¤ÖÅß1
+U
+java:S1135ô"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ı¤ÖÅß1
+M	java:S106ø"+Replace this use of System.err by a logger.(ıÓ†áıÿÿÿÿ8ı¤ÖÅß1
+M	java:S106ù"+Replace this use of System.err by a logger.(ÛØòµøÿÿÿÿ8ı¤ÖÅß1
+M	java:S106ú"+Replace this use of System.err by a logger.(Êâíİıÿÿÿÿ8ı¤ÖÅß1
+[
+java:S1117…"8Rename "conn" which hides the field declared at line 26.(ıø¸µùÿÿÿÿ8ı¤ÖÅß1
+X
+java:S2209…"5Change this instance-reference to a static reference.(ıø¸µùÿÿÿÿ8ı¤ÖÅß1
+M	java:S106’"+Replace this use of System.err by a logger.(ıÓ†áıÿÿÿÿ8„¥ÖÅß1
+M	java:S106“"+Replace this use of System.err by a logger.(ÛØòµøÿÿÿÿ8„¥ÖÅß1
+M	java:S106”"+Replace this use of System.err by a logger.(Êâíİıÿÿÿÿ8„¥ÖÅß1
+Y	java:S125•"<This block of commented-out lines of code should be removed.(†€éˆ8…¥ÖÅß1
+H	java:S106³"+Replace this use of System.out by a logger.(Â–‘ö8‡¥ÖÅß1
+Y	java:S125Á"<This block of commented-out lines of code should be removed.(†€éˆ8ˆ¥ÖÅß1
+U
+java:S1135À"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ˆ¥ÖÅß1
+M	java:S106Ä"+Replace this use of System.err by a logger.(ıÓ†áıÿÿÿÿ8‰¥ÖÅß1
+M	java:S106Å"+Replace this use of System.err by a logger.(ÛØòµøÿÿÿÿ8‰¥ÖÅß1
+M	java:S106Æ"+Replace this use of System.err by a logger.(Êâíİıÿÿÿÿ8‰¥ÖÅß1
+M	java:S106Ô"+Replace this use of System.out by a logger.(ö¶ç¨ùÿÿÿÿ8Š¥ÖÅß1
+^	java:S125İ"<This block of commented-out lines of code should be removed.(şµäÉúÿÿÿÿ8‹¥ÖÅß1
+M	java:S106à"+Replace this use of System.err by a logger.(ıÓ†áıÿÿÿÿ8‹¥ÖÅß1
+M	java:S106á"+Replace this use of System.err by a logger.(ÛØòµøÿÿÿÿ8‹¥ÖÅß1
+M	java:S106â"+Replace this use of System.err by a logger.(Êâíİıÿÿÿÿ8‹¥ÖÅß1
+M	java:S106ë"+Replace this use of System.err by a logger.(ıÓ†áıÿÿÿÿ8Œ¥ÖÅß1
+M	java:S106ì"+Replace this use of System.err by a logger.(ÛØòµøÿÿÿÿ8Œ¥ÖÅß1
+M	java:S106í"+Replace this use of System.err by a logger.(Êâíİıÿÿÿÿ8Œ¥ÖÅß1
+Y	java:S125î"<This block of commented-out lines of code should be removed.(†€éˆ8Œ¥ÖÅß1
+p
+java:S3776ø"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÛÈ“«8Œ¥ÖÅß1
+H	java:S106ù"+Replace this use of System.out by a logger.(Â–‘ö8¥ÖÅß1
+U
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¥ÖÅß1
+M	java:S106”"+Replace this use of System.err by a logger.(ıÓ†áıÿÿÿÿ8¥ÖÅß1
+M	java:S106•"+Replace this use of System.err by a logger.(ÛØòµøÿÿÿÿ8¥ÖÅß1
+M	java:S106–"+Replace this use of System.err by a logger.(Êâíİıÿÿÿÿ8¥ÖÅß1
+Y	java:S125˜"<This block of commented-out lines of code should be removed.(†€éˆ8¥ÖÅß1
+H	java:S106»"+Replace this use of System.out by a logger.(Èÿ 8’¥ÖÅß1
+i
+java:S1858Â"F"sql" is already a string, there's no need to call "toString()" on it.(×•µ¢ÿÿÿÿÿ8“¥ÖÅß1
+H	java:S106Ë"+Replace this use of System.out by a logger.(‚¨Ö§8“¥ÖÅß1
+i
+java:S1858Ø"F"sql" is already a string, there's no need to call "toString()" on it.(×•µ¢ÿÿÿÿÿ8•¥ÖÅß1
+M	java:S106ã"+Replace this use of System.out by a logger.(Ç±Œßÿÿÿÿÿ8•¥ÖÅß1

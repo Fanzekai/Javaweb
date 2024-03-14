@@ -1,0 +1,91 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+HWeb:TableWithoutCaptionCheck" Add a description to this table.(ëš—Ê
+:	Web:S5256"%Add "<th>" headers to this "<table>".(ëš—Ê
+>	Web:S1827")Remove this deprecated "width" attribute.(ëš—Ê
+>	Web:S1827")Remove this deprecated "align" attribute.(ëš—Ê
+D	Web:S1827"/Remove this deprecated "cellpadding" attribute.(ëš—Ê
+D	Web:S1827"/Remove this deprecated "cellspacing" attribute.(ëš—Ê
+D	Web:S1827"/Remove this deprecated "bordercolor" attribute.(ëš—Ê
+C	Web:S1827")Remove this deprecated "align" attribute.(³ÌŞ˜ıÿÿÿÿ
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(³ÌŞ˜ıÿÿÿÿ
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(ÓÓ˜™ùÿÿÿÿ
+C	Web:S1827")Remove this deprecated "align" attribute.(³ÌŞ˜ıÿÿÿÿ
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(³ÌŞ˜ıÿÿÿÿ
+>	Web:S1827")Remove this deprecated "width" attribute.(—ÅÜø
+>	Web:S1827")Remove this deprecated "align" attribute.(—ÅÜø
+?	Web:S1827"*Remove this deprecated "valign" attribute.(—ÅÜø
+>	Web:S1827")Remove this deprecated "width" attribute.(®òáº
+>	Web:S1827")Remove this deprecated "align" attribute.(®òáº
+?	Web:S1827"*Remove this deprecated "valign" attribute.(®òáº
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(®òáº
+>	Web:S1827")Remove this deprecated "width" attribute.(·¡ÎÍ
+>	Web:S1827")Remove this deprecated "align" attribute.(·¡ÎÍ
+?	Web:S1827"*Remove this deprecated "valign" attribute.(·¡ÎÍ
+C	Web:S1827")Remove this deprecated "width" attribute.(Å²ÒÂúÿÿÿÿ
+C	Web:S1827")Remove this deprecated "align" attribute.(Å²ÒÂúÿÿÿÿ
+D	Web:S1827"*Remove this deprecated "valign" attribute.(Å²ÒÂúÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(Å²ÒÂúÿÿÿÿ
+C	Web:S1827")Remove this deprecated "align" attribute.(³ÌŞ˜ıÿÿÿÿ
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(³ÌŞ˜ıÿÿÿÿ
+?	Web:S1827"*Remove this deprecated "height" attribute.(ßéÖ
+>	Web:S1827")Remove this deprecated "align" attribute.(ßéÖ
+?	Web:S1827"*Remove this deprecated "valign" attribute.(ßéÖ
+C	Web:S1827 ")Remove this deprecated "align" attribute.(§ƒ¡Üıÿÿÿÿ
+D	Web:S1827 "*Remove this deprecated "valign" attribute.(§ƒ¡Üıÿÿÿÿ
+>	Web:S1827(")Remove this deprecated "align" attribute.(÷şã¾
+?	Web:S1827("*Remove this deprecated "valign" attribute.(÷şã¾
+C	Web:S1827)")Remove this deprecated "align" attribute.(Ñû™úÿÿÿÿ
+D	Web:S1827)"*Remove this deprecated "valign" attribute.(Ñû™úÿÿÿÿ
+C	Web:S1827+")Remove this deprecated "align" attribute.(³ÌŞ˜ıÿÿÿÿ
+E	Web:S1827+"+Remove this deprecated "bgcolor" attribute.(³ÌŞ˜ıÿÿÿÿ
+>	Web:S1827,")Remove this deprecated "align" attribute.(²˜û
+?	Web:S1827,"*Remove this deprecated "valign" attribute.(²˜û
+C	Web:S1827-")Remove this deprecated "align" attribute.(ä‚“Ãúÿÿÿÿ
+D	Web:S1827-"*Remove this deprecated "valign" attribute.(ä‚“Ãúÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check-"&Remove this deprecated "font" element.(ä‚“Ãúÿÿÿÿ
+C	Web:S1827.")Remove this deprecated "align" attribute.(íıñşÿÿÿÿ
+D	Web:S1827."*Remove this deprecated "valign" attribute.(íıñşÿÿÿÿ
+=	Web:S1827/")Remove this deprecated "align" attribute.(Î¬²f
+>	Web:S1827/"*Remove this deprecated "valign" attribute.(Î¬²f
+PWeb:UnsupportedTagsInHtml5Check/"&Remove this deprecated "font" element.(Î¬²f
+C	Web:S18271")Remove this deprecated "align" attribute.(³ÌŞ˜ıÿÿÿÿ
+E	Web:S18271"+Remove this deprecated "bgcolor" attribute.(³ÌŞ˜ıÿÿÿÿ
+D	Web:S18272"*Remove this deprecated "height" attribute.(Õ ²ıÿÿÿÿ
+C	Web:S18272")Remove this deprecated "align" attribute.(Õ ²ıÿÿÿÿ
+D	Web:S18272"*Remove this deprecated "valign" attribute.(Õ ²ıÿÿÿÿ
+C	Web:S18273")Remove this deprecated "align" attribute.(„­ßšşÿÿÿÿ
+D	Web:S18273"*Remove this deprecated "valign" attribute.(„­ßšşÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check3"&Remove this deprecated "font" element.(„­ßšşÿÿÿÿ
+C	Web:S18274")Remove this deprecated "align" attribute.(şÖ„¾üÿÿÿÿ
+D	Web:S18274"*Remove this deprecated "valign" attribute.(şÖ„¾üÿÿÿÿ
+C	Web:S18275")Remove this deprecated "align" attribute.(¤¤âñıÿÿÿÿ
+D	Web:S18275"*Remove this deprecated "valign" attribute.(¤¤âñıÿÿÿÿ
+MWeb:TableWithoutCaptionCheck;" Add a description to this table.(ÈüÇøÿÿÿÿ
+?	Web:S5256;"%Add "<th>" headers to this "<table>".(ÈüÇøÿÿÿÿ
+C	Web:S1827;")Remove this deprecated "width" attribute.(ÈüÇøÿÿÿÿ
+C	Web:S1827;")Remove this deprecated "align" attribute.(ÈüÇøÿÿÿÿ
+I	Web:S1827;"/Remove this deprecated "cellpadding" attribute.(ÈüÇøÿÿÿÿ
+I	Web:S1827;"/Remove this deprecated "cellspacing" attribute.(ÈüÇøÿÿÿÿ
+I	Web:S1827;"/Remove this deprecated "bordercolor" attribute.(ÈüÇøÿÿÿÿ
+C	Web:S1827=")Remove this deprecated "align" attribute.(³ÌŞ˜ıÿÿÿÿ
+E	Web:S1827="+Remove this deprecated "bgcolor" attribute.(³ÌŞ˜ıÿÿÿÿ
+E	Web:S1827>"+Remove this deprecated "bgcolor" attribute.(·¾›½üÿÿÿÿ
+C	Web:S1827@")Remove this deprecated "align" attribute.(³ÌŞ˜ıÿÿÿÿ
+E	Web:S1827@"+Remove this deprecated "bgcolor" attribute.(³ÌŞ˜ıÿÿÿÿ
+C	Web:S1827A")Remove this deprecated "width" attribute.(¶À¬ùıÿÿÿÿ
+C	Web:S1827A")Remove this deprecated "align" attribute.(¶À¬ùıÿÿÿÿ
+>	Web:S1827B")Remove this deprecated "width" attribute.(„¢Ëº
+>	Web:S1827B")Remove this deprecated "align" attribute.(„¢Ëº
+QWeb:UnsupportedTagsInHtml5CheckB"&Remove this deprecated "font" element.(„¢Ëº
+C	Web:S1827D")Remove this deprecated "align" attribute.(³ÌŞ˜ıÿÿÿÿ
+E	Web:S1827D"+Remove this deprecated "bgcolor" attribute.(³ÌŞ˜ıÿÿÿÿ
+C	Web:S1827E")Remove this deprecated "align" attribute.(ùá›ÿüÿÿÿÿ
+>	Web:S1827F")Remove this deprecated "align" attribute.(ÔÊ´
+C	Web:S1827H")Remove this deprecated "align" attribute.(³ÌŞ˜ıÿÿÿÿ
+E	Web:S1827H"+Remove this deprecated "bgcolor" attribute.(³ÌŞ˜ıÿÿÿÿ
+C	Web:S1827I")Remove this deprecated "align" attribute.(ªƒğÈüÿÿÿÿ
+C	Web:S1827J")Remove this deprecated "align" attribute.(â©šÕúÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5CheckJ"&Remove this deprecated "font" element.(â©šÕúÿÿÿÿ
+C	Web:S1827O")Remove this deprecated "align" attribute.(˜€ùšøÿÿÿÿ
